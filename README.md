@@ -49,14 +49,8 @@ Multi-modal fraud detection system with adaptive security flows
 
 ## 📊 GitHub Stats
 
-<!-- GITHUB STATS -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prathmesh523&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=Prathmesh523&theme=tokyonight)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathmesh523&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
 
 ---
 
