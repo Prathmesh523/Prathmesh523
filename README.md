@@ -47,13 +47,6 @@ Multi-modal fraud detection system with adaptive security flows
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Prathmesh523&theme=tokyonight)
-
-
----
-
 ## 📫 Let's Connect
 
 Building something interesting in distributed systems? Let's talk!
