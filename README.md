@@ -49,15 +49,22 @@ Multi-modal fraud detection system with adaptive security flows
 
 ## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prathmesh523&layout=compact&theme=default&hide_border=true)
+<!-- GITHUB STATS -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Prathmesh523&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathmesh523&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 ---
 
 ## 📫 Let's Connect
 
-Building something interesting in distributed systems or event-driven architecture? Let's talk!
+Building something interesting in distributed systems? Let's talk!
 
-[LinkedIn](https://linkedin.com/in/yourprofile) • [Email](mailto:patilprathmesh050203@gmail.com) • [Resume](link-to-resume)
+[LinkedIn](https://www.linkedin.com/in/prathamesh-patil-808a77214/) • [Email](mailto:patilprathmesh050203@gmail.com)
 
 ---
 
