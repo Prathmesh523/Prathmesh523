@@ -6,7 +6,7 @@ I'm passionate about distributed systems, event-driven architectures, and buildi
 that scale. Currently working on data pipelines and ML systems at HCLTech, while exploring system 
 design and microservices through side projects.
 
-**IIT Indore '24** | 🏆 AWS Solutions Architect • AWS Data Engineer
+**CSE IIT Indore '24** | 🏆 AWS Solutions Architect • AWS Data Engineer
 
 ---
 
