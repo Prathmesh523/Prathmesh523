@@ -13,11 +13,11 @@ design and microservices through side projects.
 ## 🚀 Featured Projects
 
 ### [Personal Finance Reconciler](https://github.com/Prathmesh523/personal-finance-reconciler)
-Transaction reconciliation system with event-driven architecture
-- Built event-driven transaction reconciliation system using RabbitMQ to automate bank-to-Splitwise matching, reducing manual monthly reconciliation effort by ∼90% via asynchronous processing.
-- Designed 3-pass matching algorithm (exact amount, fuzzy date tolerance, heuristic linking) with confidence scoring to improve match accuracy under transaction date inconsistencies.
+Reconciles bank transactions with Splitwise splits to eliminate double-counting in shared expenses
+- Built event-driven transaction reconciliation system using **RabbitMQ** to automate bank-to-Splitwise matching, reducing manual monthly reconciliation effort by **∼90%** via asynchronous processing.
+- Designed **3-pass matching algorithm** (exact amount, fuzzy date tolerance, heuristic linking) with confidence scoring to improve match accuracy under transaction date inconsistencies.
 - Architected relational database schema with optimized indexing to enable isolated monthly data analysis and fast reconciliation status queries.
-- Developed Next.js analytics dashboard and integrated Ollama LLM for natural language queries using intent classification and constrained SQL generation to produce grounded, low-hallucination responses.
+- Developed **Next.js** analytics dashboard and integrated **Ollama LLM** for natural language queries using intent classification and constrained SQL generation to produce grounded, low-hallucination responses.
 
 
 **Stack:** FastAPI • Next.js 14 • RabbitMQ • PostgreSQL • Docker • Ollama
